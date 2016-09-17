@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"竹竹你个调皮的小坏蛋，我要打你的小屁屁");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
